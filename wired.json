@@ -31,14 +31,11 @@
     "CHANNEL_TEXT_AREA_DEFAULT": ["#0a0a0a", "#0a0a0a", "#0a0a0a"],
     "TEXT_LINK": ["#f4196f", "#f4196f", "#f4196f"],
     "BORDER_FAINT": ["#f4196f", "#f4196f", "#f4196f"],
-    "BORDER_STRONG": ["#f4196f", "#f4196f", "#f4196f"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#f4196f4d", "#f4196f4d", "#f4196f4d"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#f4196f66", "#f4196f66", "#f4196f66"],
-    "BACKGROUND_MODIFIER_HOVER": ["#f4196f33", "#f4196f33", "#f4196f33"]
+    "BORDER_STRONG": ["#f4196f", "#f4196f", "#f4196f"]
   },
   "background": {
     "url": "https://raw.githubusercontent.com/asteroidnote/InhumanThemeForDiscord/refs/heads/main/3c24gacrpq3b1.jpg",
-    "alpha": 0.40,
+    "alpha": 0.35,
     "blur": 0.75
   },
   "rawColors": {
@@ -69,17 +66,5 @@
     "PLUM_24": "#000000",
     "YELLOW_300": "#f4196f",
     "ORANGE_345": "#f4196f"
-  },
-  "plus": {
-    "version": "0",
-    "icons": {
-      "ic_new_pins": ["#e64553"],
-      "StatusStreaming": ["#593695"],
-      "StatusMobileOnline": ["#23a559"],
-      "StatusIdle": ["#f0b232"],
-      "StatusDND": ["#f23f43"],
-      "StatusOffline": ["#80848e"],
-      "StatusOnline": ["#23a559"]
-    }
   }
 }
