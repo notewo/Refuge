@@ -1,6 +1,6 @@
 {
   "name": "Refuge",
-  "description": "yeah sure",
+  "description": "Just a simple OneShot Refuge Discord Theme.",
   "authors": [
     {
       "name": "Note",
@@ -31,10 +31,16 @@
     "CHANNEL_TEXT_AREA_DEFAULT": ["#0a0a0a", "#0a0a0a", "#0a0a0a"],
     "TEXT_LINK": ["#f4196f", "#f4196f", "#f4196f"],
     "BORDER_FAINT": ["#f4196f", "#f4196f", "#f4196f"],
-    "BORDER_STRONG": ["#f4196f", "#f4196f", "#f4196f"]
+    "BORDER_STRONG": ["#f4196f", "#f4196f", "#f4196f"],
+    "DIVIDER_FAINT": ["#f4196f", "#f4196f", "#f4196f"],
+    "DIVIDER_STRONG": ["#f4196f", "#f4196f", "#f4196f"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#f4196f4d", "#f4196f4d", "#f4196f4d"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#f4196f66", "#f4196f66", "#f4196f66"],
+    "BACKGROUND_MODIFIER_HOVER": ["#f4196f33", "#f4196f33", "#f4196f33"],
+    "STATUS_IDLE": ["#f0b232", "#f0b232", "#f0b232"]
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/notewo/Refuge/refs/heads/main/3c24gacrpq3b1.jpg",
+    "url": "https://raw.githubusercontent.com/asteroidnote/InhumanThemeForDiscord/refs/heads/main/3c24gacrpq3b1.jpg",
     "alpha": 0.35,
     "blur": 0.75
   },
@@ -45,26 +51,27 @@
     "BRAND_560": "#f4196f",
     "BRAND_600": "#f4196f",
     "BRAND_700": "#c21357",
-    "PLUM 11": "#121212",
-    "PLUM_13": "#181818",
-    "PLUM_15": "#181818",
-    "PLUM_16": "#181818",
     "PLUM_17": "#000000",
     "PLUM_18": "#000000",
     "PLUM_19": "#000000",
     "PLUM_20": "#000000",
     "PLUM_22": "#000000",
-    "PRIMARY_600": "#000000",
-    "PRIMARY_630": "#000000",
-    "PRIMARY_700": "#000000",
-    "PRIMARY_800": "#000000",
-    "PRIMARY_900": "#000000",
-    "PRIMARY_230": "#000000",
-    "PRIMARY_300": "#000000",
     "YELLOW_260": "#f4196f",
     "PLUM_23": "#000000",
     "PLUM_24": "#000000",
     "YELLOW_300": "#f4196f",
-    "ORANGE_345": "#f4196f"
+    "ORANGE_345": "#f0b232"
+  },
+  "plus": {
+    "version": "0",
+    "icons": {
+      "ic_new_pins": ["#e64553"],
+      "StatusStreaming": ["#593695"],
+      "StatusMobileOnline": ["#23a559"],
+      "StatusIdle": ["#f0b232"],
+      "StatusDND": ["#f23f43"],
+      "StatusOffline": ["#80848e"],
+      "StatusOnline": ["#23a559"]
+    }
   }
 }
