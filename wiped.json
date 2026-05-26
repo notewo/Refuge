@@ -39,8 +39,8 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/asteroidnote/InhumanThemeForDiscord/refs/heads/main/3c24gacrpq3b1.jpg",
-    "alpha": 0.35,
-    "blur": 0.75
+    "alpha": 0.45,
+    "blur": 0
   },
   "rawColors": {
     "BRAND_360": "#f4196f",
