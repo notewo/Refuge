@@ -34,10 +34,11 @@
     "BORDER_STRONG": ["#f4196f", "#f4196f", "#f4196f"],
     "BACKGROUND_MODIFIER_SELECTED": ["#f4196f4d", "#f4196f4d", "#f4196f4d"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#f4196f66", "#f4196f66", "#f4196f66"],
-    "BACKGROUND_MODIFIER_HOVER": ["#f4196f33", "#f4196f33", "#f4196f33"]
+    "BACKGROUND_MODIFIER_HOVER": ["#f4196f33", "#f4196f33", "#f4196f33"],
+    "STATUS_IDLE": ["#ff9800", "#ff9800", "#ff9800"]
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/notewo/Refuge/refs/heads/main/3c24gacrpq3b1.jpg",
+    "url": "https://raw.githubusercontent.com/asteroidnote/InhumanThemeForDiscord/refs/heads/main/3c24gacrpq3b1.jpg",
     "alpha": 0.35,
     "blur": 0.75
   },
