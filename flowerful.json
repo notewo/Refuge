@@ -11,7 +11,7 @@
   "theme": "midnight",
   "semanticColors": {
     "BACKGROUND_MENTIONED": ["#f4196f33", "#f4196f33", "#f4196f33"],
-    "MENTION_BACKGROUND": ["#f4196f", "#f4196f", "#f4196f"],
+    "MENTION_BACKGROUND": ["#f4196f4d", "#f4196f4d", "#f4196f4d"],
     "TEXT_MENTION": ["#f4196f", "#f4196f", "#f4196f"],
     "TEXT_DEFAULT": ["#ffffff", "#ffffff", "#ffffff"],
     "TEXT_NORMAL": ["#ffffff", "#ffffff", "#ffffff"],
