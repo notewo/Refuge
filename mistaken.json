@@ -1,6 +1,6 @@
 {
   "name": "Refuge",
-  "description": "Just a simple OneShot Refuge Discord Theme.",
+  "description": "Just a OneShot Refuge Discord Theme.",
   "authors": [
     {
       "name": "Note",
@@ -34,6 +34,8 @@
     "BORDER_STRONG": ["#f4196f", "#f4196f", "#f4196f"],
     "DIVIDER_FAINT": ["#f4196f", "#f4196f", "#f4196f"],
     "DIVIDER_STRONG": ["#f4196f", "#f4196f", "#f4196f"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#f4196f", "#f4196f", "#f4196f"],
+    "ELEVATION_STROKE": ["#f4196f", "#f4196f", "#f4196f"],
     "BACKGROUND_MODIFIER_SELECTED": ["#f4196f4d", "#f4196f4d", "#f4196f4d"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#f4196f66", "#f4196f66", "#f4196f66"],
     "BACKGROUND_MODIFIER_HOVER": ["#f4196f33", "#f4196f33", "#f4196f33"],
